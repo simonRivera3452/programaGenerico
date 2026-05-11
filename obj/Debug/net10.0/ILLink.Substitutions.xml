@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="programaGenerico">
+    <resource name="FSharpSignatureData.programaGenerico" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.programaGenerico" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.programaGenerico" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.programaGenerico" action="remove"></resource>
+    <resource name="FSharpOptimizationData.programaGenerico" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.programaGenerico" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.programaGenerico" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.programaGenerico" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.programaGenerico" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.programaGenerico" action="remove"></resource>
+  </assembly>
+</linker>
